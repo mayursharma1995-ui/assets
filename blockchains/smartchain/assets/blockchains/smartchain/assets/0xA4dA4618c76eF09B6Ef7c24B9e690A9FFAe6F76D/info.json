@@ -1,0 +1,11 @@
+{
+  "name": "MAA",
+  "symbol": "MAA",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "MAA is an emotion-backed token representing divine love and belief.",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://bscscan.com/token/0xA4dA4618c76eF09B6Ef7c24B9e690A9FFAe6F76D",
+  "status": "active",
+  "id": "0xA4dA4618c76eF09B6Ef7c24B9e690A9FFAe6F76D"
+}
